@@ -1,1 +1,0 @@
-python-telegram-bot==22.5httpx==0.28.1
